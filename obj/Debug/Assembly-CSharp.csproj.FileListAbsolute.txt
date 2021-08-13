@@ -1,0 +1,2 @@
+C:\Users\Epic\Desktop\Stuffs\Praetorian Group\Games\Unity\Marvin\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\Epic\Desktop\Stuffs\Praetorian Group\Games\Unity\Marvin\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
